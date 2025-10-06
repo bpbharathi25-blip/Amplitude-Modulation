@@ -76,12 +76,14 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 
 Program
 
+<img width="493" height="636" alt="image" src="https://github.com/user-attachments/assets/a2aa49cf-da95-4309-9faf-73001b706f63" />
 
 
 Output Waveform
 
 
 
+<img width="755" height="579" alt="image" src="https://github.com/user-attachments/assets/928fa04e-9eb0-4f4e-be1e-5ebb279c9edb" />
 
 
 TABULATION:
