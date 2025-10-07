@@ -1,4 +1,4 @@
-# Amplitude-Modulation
+<img width="1399" height="922" alt="image" src="https://github.com/user-attachments/assets/b6653542-45d8-4d26-a2ad-71c128e809d1" /># Amplitude-Modulation
 
 EXP NO: 1	GENERATION AND DETECTION OF AM
 
@@ -88,11 +88,13 @@ Output Waveform
 
 TABULATION:
 
+ <img width="1368" height="930" alt="image" src="https://github.com/user-attachments/assets/c73028f5-a4d0-49c6-9ed4-54cc457ea917" />
+
 
 
 Calculation
-1.	ma (Theory) = am/ac =
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) =
+1.	ma (Theory) = am/ac = 0.5
+2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 5.3/10.3 = 0.514
 
 
 MODEL GRAPH
